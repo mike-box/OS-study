@@ -4,7 +4,7 @@ theme:
   name: material
   custom_dir: overrides
 
-repo_url: https://github.com/conanhujinming/comments-for-awesome-courses/
+repo_url: https://github.com/mike-box/OS-study
 
 markdown_extensions:
   - def_list

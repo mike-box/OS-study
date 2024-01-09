@@ -31,6 +31,7 @@ def list_files(course: str):
                                                               f, BIN_URL_PREFIX + quote('{}/{}'.format(root, f)))
             elif root == course and readme_path == '':
                 readme_path = '{}/{}'.format(root, f)
+    print(filelist_texts, readme_path)
     return filelist_texts, readme_path
 
 
