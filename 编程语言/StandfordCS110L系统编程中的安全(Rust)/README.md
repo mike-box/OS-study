@@ -4,7 +4,7 @@
 
 评论贡献者：[Qi Wang](https://github.com/wangqiim)
 
-- [X] [Videos]((https://github.com/reberhardt7/cs110l-spr-2020-starter-code))：2020版本有video(Youtube)，但是后面几课缺失，之后的2021以及2022版都无视频
+- [X] [Videos](https://github.com/reberhardt7/cs110l-spr-2020-starter-cod)：2020版本有video(Youtube)，但是后面几课缺失，之后的2021以及2022版都无视频
 
 - [X] [lab x 6  + project x 2](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
 
